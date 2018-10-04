@@ -25,3 +25,8 @@ A commit is a set of changes to the code. This is one of the most interesting th
 
 What is the benefit of having a copy of the last 
 known state of the remote stored locally?
+
+How would you collaborate without using Git or GitHub? 
+What would be easier, and what would be harder?
+It is easier to merge code and lots of lines with Git and Github.
+Discussing changes is easier in person.
