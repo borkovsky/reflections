@@ -1,0 +1,2 @@
+Diff compares the lines in different files and
+shows the ones that are different.
