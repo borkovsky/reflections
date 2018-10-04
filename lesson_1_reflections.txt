@@ -1,2 +1,23 @@
 Diff compares the lines in different files and
 shows the ones that are different.
+
+Having access to old versions of the file is good 
+because you can always refer to it.
+Ex. correct a mistake or look something up.
+
+Pro of manual commits: you are in control, 
+can logically separate differecnt activities.
+Con: may forget to commit sometime. 
+
+Saving multiple files in one commit is useful when
+the separate files are dependent on one another (ex. html/css).
+
+Git log is to too see all changes in history.
+Git diff compares the difference between any two commits.
+
+How might using version control make you more confident 
+to make changes that could break something?
+By knowing that you can go back in time!
+
+I want to use git to set up my github.
+
